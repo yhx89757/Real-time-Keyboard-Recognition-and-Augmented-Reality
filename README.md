@@ -5,7 +5,8 @@
 ## Assumptions  
 ### Song Selection  
 The user cannot play just any song. Unfortunately, the user is limited to songs that are pre-programmed into the Casio SA76. The piano has around 20 songs pre-loaded song which allowed enough opportunities to test the image processing program. The piano does not have a standard number of keys and we will only use the first 26 white keys as shown in figure blow.   
-<div align=center><img src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure1.JPG"/></div>
+<div align=center><img width="450" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure1.JPG"/></div>  
+
 ### Camera Resolution  
 The camera used was a Microsoft lifecam with 720p of resolution. We recommended cameras with with at least 720p of resolution. 
  
