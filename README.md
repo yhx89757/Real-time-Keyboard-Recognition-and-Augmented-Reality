@@ -23,8 +23,8 @@ Although piano modification was kept to a minimum some changes were required. Fo
 ### Music Reader  
 Position of the piano is also a key factor for the program to correctly recognize music notes and overlay the next note to be played.  Since the LCD screen is recessed into the keyboard creating an orthophoto can vary depending upon the camera’s angle of view. This view is similar to parallax and will be discussed later. Ideally, the camera will be positioned directly over the LCD screen. The program does allow for some degree of off angle camera positions. Please check out this [VIDEO FOR TIME NOTES](https://www.youtube.com/watch?v=IQND2-eX8X0 "It Is a Youtube Video") for more details.  
 
-<p float="center">  
- <img width="350" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure2.JPG"/>  <img width="350" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure6.JPG"/> 
+<p float="left">  
+ <img width="400" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure2.JPG"/>  <img width="400" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure6.JPG"/> 
 </p>
 
 ### Key Highlighter
