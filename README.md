@@ -1,6 +1,8 @@
-# Real-time-Keyboard-Recognition-and-Augmented-Reality  
-###### Author: Haoxuan Yang and Ryan Thorpe
-====  
+Real-time-Keyboard-Recognition-and-Augmented-Reality 
+====   
+
+###### Author: Haoxuan Yang and Ryan Thorpe  
+
 ***Augmented reality*** applications are on the rise and scientists and engineers are finding new applications. With the increase of processing power even mobile phones can perform computer computer vision operations to help the user learn new skills or analyze their surroundings. For this project we will focus on how augmented reality could help anyone learn to play the piano. It becomes more apparent every year that people wish to learn more skills in less time. Although, there are obvious downsides to such a hasty approach to learning, there is a substantial market for it. Applications like Photomath allow you to photograph a math problem and solve it in real time without knowing how to even add. Our piano playing program seeks to obviate the character building exercise of learning to read and understand musical structure. It will read music from an LCD screen and directly tell the user what key to play and when. These songs are pre-loaded onto a special piano with an LCD screen.   
 ## Assumptions  
 ### Song Selection  
@@ -20,8 +22,7 @@ Although piano modification was kept to a minimum some changes were required. Fo
 ## Piano Position  
 ### Music Reader  
 Position of the piano is also a key factor for the program to correctly recognize music notes and overlay the next note to be played.  Since the LCD screen is recessed into the keyboard creating an orthophoto can vary depending upon the camera’s angle of view. This view is similar to parallax and will be discussed later. Ideally, the camera will be positioned directly over the LCD screen. The program does allow for some degree of off angle camera positions. Please check out this [VIDEO FOR TIME NOTES](https://www.youtube.com/watch?v=IQND2-eX8X0 "It Is a Youtube Video") for more details.  
-<div align=center><img width="450" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure2.JPG"/></div>
-<div align=center><img width="450" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure6.JPG"/></div>  
+<img width="450" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure2.JPG"/><img width="450" src="https://github.com/yhx89757/Real-time-Keyboard-Recognition-and-Augmented-Reality/blob/master/pics/figure6.JPG"/> 
 
 ### Key Highlighter
 The keyboard needs to be level with the image borders. This means that the camera should view the piano to be centered within its field of view with little rotation or skew. 
