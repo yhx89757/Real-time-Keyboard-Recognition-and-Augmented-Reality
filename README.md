@@ -1,5 +1,5 @@
 # Real-time-Keyboard-Recognition-and-Augmented-Reality  
-Author: Haoxuan Yang and Ryan Thorpe
+##### Author: Haoxuan Yang and Ryan Thorpe
 ====  
 ***Augmented reality*** applications are on the rise and scientists and engineers are finding new applications. With the increase of processing power even mobile phones can perform computer computer vision operations to help the user learn new skills or analyze their surroundings. For this project we will focus on how augmented reality could help anyone learn to play the piano. It becomes more apparent every year that people wish to learn more skills in less time. Although, there are obvious downsides to such a hasty approach to learning, there is a substantial market for it. Applications like Photomath allow you to photograph a math problem and solve it in real time without knowing how to even add. Our piano playing program seeks to obviate the character building exercise of learning to read and understand musical structure. It will read music from an LCD screen and directly tell the user what key to play and when. These songs are pre-loaded onto a special piano with an LCD screen.   
 ## Assumptions  
